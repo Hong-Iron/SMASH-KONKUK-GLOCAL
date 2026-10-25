@@ -20,5 +20,50 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "건국체육관": {
+      "style": "concrete",
+      "wall": "#deded5",
+      "glass": "#3d5a5a",
+      "frame": "#7e9b73"
+    },
+    "모시래학사(남학생동)": {
+      "style": "dorm",
+      "wall": "#8a625a",
+      "glass": "#4d5756",
+      "frame": "#f6eee6"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#7c5451",
+      "glass": "#3a3c40",
+      "frame": "#d8d4cc"
+    },
+    "중원도서관": {
+      "style": "stone",
+      "wall": "#cecec7",
+      "glass": "#3e4448",
+      "frame": "#8a8a84"
+    },
+    "교수연구동": {
+      "style": "stone",
+      "wall": "#e7e3df",
+      "glass": "#3c4a4c",
+      "frame": "#9a9894"
+    },
+    "해오름학사": {
+      "style": "dorm",
+      "wall": "#f4f4f4",
+      "glass": "#3a4250",
+      "frame": "#98959c"
+    },
+    "상허산학협력단": {
+      "style": "brick",
+      "wall": "#c98a52",
+      "glass": "#4a6460",
+      "frame": "#e8dfc9"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
