@@ -1,0 +1,34 @@
+{
+ "region": "충북 충주시 단월동",
+ "nameEn": "Konkuk University Glocal Campus",
+ "added": "2026-10-17",
+ "rank": 64,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KNUT",
+   "campus": "국립한국교통대학교 충주캠퍼스",
+   "km": 4.0
+  },
+  {
+   "code": "JUNGWON",
+   "campus": "중원대학교",
+   "km": 17.6
+  },
+  {
+   "code": "FEU",
+   "campus": "극동대학교",
+   "km": 30.7
+  },
+  {
+   "code": "GANGDONG",
+   "campus": "강동대학교",
+   "km": 31.5
+  },
+  {
+   "code": "KNUT-JEUNGPYEONG",
+   "campus": "국립한국교통대학교 증평캠퍼스",
+   "km": 32.3
+  }
+ ]
+}
